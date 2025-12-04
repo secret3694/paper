@@ -8,3 +8,6 @@
  - <a name="todo"></a>Data Banzhaf: A Robust Data Valuation Framework for Machine Learning
  - <a name="todo"></a>Robust Data Valuation with Weighted Banzhaf Values
  - <a name="todo"></a>A value for n-person games
+ - <a name="todo"></a>An Efficient Explanation of Individual Classifications using Game Theory
+ - <a name="todo"></a>Polynomial calculation of the Shapley value based on sampling
+ - <a name="todo"></a>Efficient Computation of the Shapley Value for Game-Theoretic Network Centrality
