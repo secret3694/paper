@@ -11,3 +11,4 @@
  - <a name="todo"></a>An Efficient Explanation of Individual Classifications using Game Theory
  - <a name="todo"></a>Polynomial calculation of the Shapley value based on sampling
  - <a name="todo"></a>Efficient Computation of the Shapley Value for Game-Theoretic Network Centrality
+ - <a name="todo"></a>Improving polynomial estimation of the Shapley value by stratified random sampling with optimum allocation
