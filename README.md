@@ -14,3 +14,6 @@
  - <a name="todo"></a>Improving polynomial estimation of the Shapley value by stratified random sampling with optimum allocation
  - <a name="todo"></a>Data Shapley: Equitable Valuation of Data for Machine Learning
  - <a name="todo"></a>Improving pretraining data using perplexity correlations.
+## RKBS相关
+### 标题：Reproducing Kernel Banach Spaces for Machine Learning
+论文主题：为Banach空间建立类似Hilbert空间的表示定理
