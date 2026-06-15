@@ -17,3 +17,7 @@
 ## RKBS相关
 ### 标题：Reproducing Kernel Banach Spaces for Machine Learning
 论文主题：为Banach空间建立类似Hilbert空间的表示定理
+
+## 影响函数相关
+### 标题：Better Training Data Attribution via Better Inverse Hessian-Vector Products
+论文主题：提出方法：ASTRA。EKFAC做LiSSA预条件器+低维方向更重要
