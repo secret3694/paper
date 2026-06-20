@@ -22,6 +22,8 @@
 ### 标题：Better Training Data Attribution via Better Inverse Hessian-Vector Products
 论文主题：提出方法：ASTRA。EKFAC做LiSSA预条件器+低维方向更重要
 
+### 标题：Rethinking Data Shapley for Data Selection Tasks: Misleads and Merits
+论文主题：shapley值较好数据选择效果需要特殊的效用函数，例如效用函数使得正点换负点损失减小或者效用函数是$\sum \phi_i$单调递增变换
 
 ## 数据选择相关
 ### 标题：GREATS: Online Selection of High-Quality Data for LLMTraining in Every Iteration
