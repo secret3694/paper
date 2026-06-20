@@ -18,6 +18,11 @@
 ### 标题：Reproducing Kernel Banach Spaces for Machine Learning
 论文主题：为Banach空间建立类似Hilbert空间的表示定理
 
-## 影响函数相关
+## 数据价值相关
 ### 标题：Better Training Data Attribution via Better Inverse Hessian-Vector Products
 论文主题：提出方法：ASTRA。EKFAC做LiSSA预条件器+低维方向更重要
+
+
+## 数据选择相关
+### 标题：GREATS: Online Selection of High-Quality Data for LLMTraining in Every Iteration
+论文主题：在每一步迭代时使用贪心算法选择使得边际损失下降最快的50%训练点，使用两次泰勒展开近似目标。
